@@ -8,7 +8,6 @@
       LearnHub
     </text>
     
-    
   </svg>
   
   <br>
